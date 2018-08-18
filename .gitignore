@@ -1,2 +1,6 @@
 /autodeploy.iml
 .idea/
+/system/target/
+/client/target/
+/cli/target/
+/target/
